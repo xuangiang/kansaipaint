@@ -1,2 +1,2 @@
-version: 6.1.20200710.0900
+version: 6.0.20220921.1800
 Token: AAA-BBB-CDEF

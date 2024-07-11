@@ -1,9 +1,1 @@
-{
-"version": "6.0.20240710.0900",
-"Token": "AAA-BBB-CDEF",
-"File":[
-"abc.txt",
-"cdm.jpg",
-"kkz.png"
-]
-}
+{"version":"6.0.20240710.0900","Token":"AAA-BBB-CDEF","File":["abc.txt","cdm.jpg","kkz.png"]}

@@ -1,1 +1,1 @@
-{"Version":"6.0.20240710.0900","Token":"AAA-BBB-CDEF","Files":["TOYOTA","MAZDA","HYUNDAI"]}
+{"Version":"6.0.20240710.0900","Token":"wXt28XcL","Files":["TOYOTA","MAZDA","HYUNDAI"]}
